@@ -238,6 +238,17 @@ You can also invoke skills directly:
 /discovery
 ```
 
+### Sales Agent
+
+Installing the plugin also adds a `sales-agent` subagent ([agents/sales-agent.md](agents/sales-agent.md)). It routes any sales request to the right skills, combines them, and returns finished work. Claude Code delegates to it automatically for sales tasks, or you can ask for it directly:
+
+```
+"Use the sales-agent to build a 5-touch outbound sequence for VP Finance at mid-market SaaS"
+"Have the sales-agent review this pipeline export and flag deals at risk"
+```
+
+To use it without the plugin, copy `agents/sales-agent.md` into your project's `.claude/agents/` folder alongside the skills.
+
 ## Skill Categories
 
 **122 skills** organized into three categories:
