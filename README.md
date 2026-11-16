@@ -6,6 +6,12 @@ Built by [Apparate](https://apparate.com.au?ref=salesskills).
 
 **Contributions welcome!** Found a way to improve a skill or have a new one to add? [Open a PR](#contributing).
 
+## What this fork adds
+
+This project adapts [Marketing Skills](https://github.com/coreyhaines31/marketingskills) for B2B sales. Its playbooks cover discovery, qualification, negotiation and pipeline management. Each workflow is packaged as a Markdown skill so agents can load the relevant guidance for the task.
+
+For example, start with the [discovery playbook](skills/discovery/) and ask your agent to turn anonymised call notes into confirmed needs, unanswered questions and a follow-up agenda.
+
 ## What are Skills?
 
 Skills are markdown files that give AI agents specialized knowledge and workflows for specific tasks. When you add these to your project, Claude Code can recognize when you're working on a sales task and apply the right frameworks, methodologies, and best practices.
