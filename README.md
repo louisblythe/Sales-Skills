@@ -249,6 +249,10 @@ You can also invoke skills directly:
 /discovery
 ```
 
+### Sales Agent
+
+In an existing Claude Code session with Sales Skills enabled, ask the [sales agent](agents/sales-agent.md) for a draft using context you provide in chat. For example, ask it to turn discovery notes into a follow-up agenda. It uses bundled skills and returns the draft in chat.
+
 ## Skill Categories
 
 **122 skills** organized into three categories:
