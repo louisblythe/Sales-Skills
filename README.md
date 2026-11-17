@@ -21,7 +21,7 @@ In an existing Claude Code session with Sales Skills enabled, ask for the releva
 | [`sales-skills:sales-reporting`](agents/sales-reporting.md) | Build a funnel report from these counts and show the denominator for each conversion rate. |
 | [`sales-skills:sales-agent`](agents/sales-agent.md) | Turn these discovery notes into a follow-up agenda. |
 
-Paste the relevant numbers or notes into chat. The agents use bundled skills and return drafts in chat.
+Paste the relevant numbers or notes into chat. The agents use bundled skills and return drafts in chat. See [worked examples for all three leadership subagents](examples/sales-leadership.md).
 
 ## Five-minute quickstart
 
