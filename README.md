@@ -251,14 +251,7 @@ You can also invoke skills directly:
 
 ### Sales Agent
 
-Installing the plugin also adds a `sales-agent` subagent ([agents/sales-agent.md](agents/sales-agent.md)). It routes any sales request to the right skills, combines them, and returns finished work. Claude Code delegates to it automatically for sales tasks, or you can ask for it directly:
-
-```
-"Use the sales-agent to build a 5-touch outbound sequence for VP Finance at mid-market SaaS"
-"Have the sales-agent review this pipeline export and flag deals at risk"
-```
-
-To use it without the plugin, copy `agents/sales-agent.md` into your project's `.claude/agents/` folder alongside the skills.
+In an existing Claude Code session with Sales Skills enabled, ask the [sales agent](agents/sales-agent.md) for a draft using context you provide in chat. For example, ask it to turn discovery notes into a follow-up agenda. It uses bundled skills and returns the draft in chat.
 
 ## Skill Categories
 
