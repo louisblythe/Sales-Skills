@@ -10,6 +10,19 @@ Built by [Apparate](https://apparate.com.au?ref=salesskills).
 
 This project adapts [Marketing Skills](https://github.com/coreyhaines31/marketingskills) for B2B sales. Its playbooks cover discovery, qualification, negotiation and pipeline management. Each workflow is packaged as a Markdown skill so agents can load the relevant guidance for the task.
 
+## Sales subagents
+
+In an existing Claude Code session with Sales Skills enabled, ask for the relevant subagent by its full name:
+
+| Subagent | Example request |
+| --- | --- |
+| [`sales-skills:sales-manager`](agents/sales-manager.md) | Review these deal notes and draft a weekly pipeline review with coaching priorities. |
+| [`sales-skills:head-of-sales`](agents/head-of-sales.md) | Turn these targets and forecasts into a leadership brief with risks and decisions. |
+| [`sales-skills:sales-reporting`](agents/sales-reporting.md) | Build a funnel report from these counts and show the denominator for each conversion rate. |
+| [`sales-skills:sales-agent`](agents/sales-agent.md) | Turn these discovery notes into a follow-up agenda. |
+
+Paste the relevant numbers or notes into chat. The agents use bundled skills and return drafts in chat.
+
 ## Five-minute quickstart
 
 From the root of a project, install the discovery skill for your preferred agent:
@@ -248,10 +261,6 @@ You can also invoke skills directly:
 /objection-handling
 /discovery
 ```
-
-### Sales Agent
-
-In an existing Claude Code session with Sales Skills enabled, ask the [sales agent](agents/sales-agent.md) for a draft using context you provide in chat. For example, ask it to turn discovery notes into a follow-up agenda. It uses bundled skills and returns the draft in chat.
 
 ## Skill Categories
 
