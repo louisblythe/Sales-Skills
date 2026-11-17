@@ -11,3 +11,4 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: ruby scripts/check_skills.rb
+      - run: ruby scripts/check_pipeline_review.rb

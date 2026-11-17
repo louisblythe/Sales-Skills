@@ -10,6 +10,10 @@ Built by [Apparate](https://apparate.com.au?ref=salesskills).
 
 This project adapts [Marketing Skills](https://github.com/coreyhaines31/marketingskills) for B2B sales. Its playbooks cover discovery, qualification, negotiation and pipeline management. Each workflow is packaged as a Markdown skill so agents can load the relevant guidance for the task.
 
+## Weekly Pipeline Review
+
+Use the [sample CRM export and four worked outputs](examples/weekly-pipeline-review/) to run a review from pasted deal notes or spreadsheet rows. Choose the Sales Rep, Sales Manager, Head of Sales, or Sales Reporting view.
+
 ## Sales subagents
 
 In an existing Claude Code session with Sales Skills enabled, ask for the relevant subagent by its full name:
