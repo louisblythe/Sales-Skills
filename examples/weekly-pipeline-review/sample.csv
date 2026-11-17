@@ -1,0 +1,5 @@
+deal,owner,stage,amount,currency,close_date,forecast_category,next_step,buyer_evidence,prior_close_date
+Harbour Health,Mia,Proposal,40000,AUD,2026-11-27,commit,Confirm budget and signer on Thursday,Buyer confirmed the problem and agreed to a call,2026-11-13
+Cedar Freight,Sam,Negotiation,30000,AUD,2026-11-25,commit,Confirm procurement milestones,Buyer supplied a procurement checklist,2026-11-25
+Wattle Systems,Mia,Evaluation,25000,AUD,2026-11-30,upside,Review pilot success criteria,Buyer asked for a pilot outline,
+Banksia Retail,Sam,Discovery,15000,AUD,2026-11-30,,Confirm decision process,,
