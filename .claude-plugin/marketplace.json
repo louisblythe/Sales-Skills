@@ -5,7 +5,7 @@
     "url": "https://apparate.com.au"
   },
   "metadata": {
-    "description": "Sales skills for Claude Code — prospecting, discovery, objection handling, negotiation, and AI SDR capabilities",
+    "description": "Sales skills for Claude Code \u2014 prospecting, discovery, objection handling, negotiation, and AI SDR capabilities",
     "version": "5.0.0",
     "repository": "https://github.com/louisblythe/salesskills"
   },
@@ -134,6 +134,7 @@
         "./skills/tone-matching",
         "./skills/trigger-event-detection",
         "./skills/urgency-creation",
+        "./skills/vibe-prospecting",
         "./skills/voicemail-drop-optimization",
         "./skills/warm-transfer-execution",
         "./skills/win-loss-reason-extraction",

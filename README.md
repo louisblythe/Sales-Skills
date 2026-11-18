@@ -73,6 +73,7 @@ Skills are markdown files that give AI agents specialized knowledge and workflow
 | [lead-qualification](skills/lead-qualification/) | Design lead qualification forms and scoring |
 | [meeting-conversion](skills/meeting-conversion/) | Improve meeting show rates and prospect engagement |
 | [outbound-prospecting](skills/outbound-prospecting/) | Outbound prospecting and lead sourcing strategy |
+| [vibe-prospecting](skills/vibe-prospecting/) | Build/enrich B2B lists via Explorium Vibe Prospecting MCP (OAuth) |
 | [pricing-negotiation](skills/pricing-negotiation/) | Handle pricing objections and negotiate value |
 | [sales-enablement-tools](skills/sales-enablement-tools/) | Build ROI calculators and sales enablement tools |
 | [sales-playbook-scaling](skills/sales-playbook-scaling/) | Build and scale sales playbooks and processes |
